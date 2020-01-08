@@ -1,0 +1,33 @@
+{
+  "name": "eddasistemas/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Robson V. Leite",
+    "SaaS",
+    "PHP",
+    "Full Stack",
+    "Edda Sistemas",
+    "Rafael Oliveira"
+  ],
+  "homepage": "http://www.eddasistemas.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rafael O. Santos",
+      "email": "contato@eddasistemas.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "EddaSistemas\\CafeApi\\": "src"
+    }
+  }
+}
