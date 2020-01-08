@@ -167,7 +167,7 @@ Thank you
 - [Robson V. Leite](https://github.com/robsonvleite) (Developer)
 - [Edda Sistemas](https://github.com/eddasistemas) (Developer)
 - [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
-- [All Contributors](https://github.com/robsonvleite/uploader/contributors) (This Rock)
+- [All Contributors](https://github.com/eddasistemas/cafeapi/contributors) (This Rock)
 
 ## License
 
